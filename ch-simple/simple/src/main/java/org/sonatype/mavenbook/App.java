@@ -2,7 +2,7 @@ package org.sonatype.mavenbook;
 
 /**
  * Hello world!
- *
+ * just for testing
  */
 public class App 
 {
